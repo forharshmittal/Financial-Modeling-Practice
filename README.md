@@ -15,5 +15,5 @@ This repository hosts the financial models I built while following the curriculu
 - **Valuation:** Calculating WACC (Weighted Average Cost of Capital) and Terminal Value.
 
 ## 🔗 Credits
-- **Course:** [[The Valuation School - Financial Modelling Playlist] https://www.youtube.com/playlist?list=PL3uUjzLk6PulhRop_ffNeHyK0kprzO4cT
+- **Course:** [[The Valuation School - Financial Modelling Playlist](https://www.youtube.com/playlist?list=PL3uUjzLk6PulhRop_ffNeHyK0kprzO4cT)
 - *This is a practice project for educational purposes.*
